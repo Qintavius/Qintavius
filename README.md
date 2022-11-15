@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **JavaScript and ReactJS**
 
-- 👨‍💻 All of my projects are available at [portfolio.quentinquintavius.com](portfolio.quentinquintavius.com)
+- 👨‍💻 All of my projects are available at my portfolio (https://portfolio.quentinquintavius.com/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/quentin-z4b4**
 
-- 📄 Know about my experiences [I'm a computer technician graduate and soon to be a web developer, so i'm starting my new life in the tech field.](I'm a computer technician graduate and soon to be a web developer, so i'm starting my new life in the tech field.)
+- 📄 Know about my experiences I'm a computer technician graduate and soon to be a web developer, so i'm starting my new life in the tech field.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
