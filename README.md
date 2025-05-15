@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript and ReactJS**
 
-- 👨‍💻 All of my projects are available at my portfolio (https://portfolio.quentinquintavius.com/)
+- 👨‍💻 All of my projects are available at my portfolio (https://fr.quentinquintavius.com/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/quentin-z4b4**
 
